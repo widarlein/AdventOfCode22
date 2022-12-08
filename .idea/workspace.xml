@@ -78,7 +78,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/widar/Code/hax/AdventOfCode/AoC22/src/main/resources"
+    "last_opened_file_path": "/home/widar/Code/hax/AdventOfCode/AoC22/src/main/resources",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -89,18 +90,11 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin/day2" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Day7Kt">
+  <component name="RunManager" selected="Kotlin.Day8Kt">
     <configuration name="Day1Kt" type="JetRunConfigurationType" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day1.Day1Kt" />
       <module name="AoC22.main" />
       <shortenClasspath name="NONE" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.Day3Kt" />
-      <module name="AoC22.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -140,21 +134,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day8.Day8Kt" />
+      <module name="AoC22.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Kotlin.Day1Kt" />
       <item itemvalue="Kotlin.Day7Kt" />
-      <item itemvalue="Kotlin.Day3Kt" />
+      <item itemvalue="Kotlin.Day8Kt" />
       <item itemvalue="Kotlin.Day4Kt" />
       <item itemvalue="Kotlin.Day5Kt" />
       <item itemvalue="Kotlin.Day6Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Day8Kt" />
         <item itemvalue="Kotlin.Day7Kt" />
         <item itemvalue="Kotlin.Day6Kt" />
         <item itemvalue="Kotlin.Day5Kt" />
         <item itemvalue="Kotlin.Day4Kt" />
-        <item itemvalue="Kotlin.Day3Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +192,11 @@
           <url>file://$PROJECT_DIR$/src/main/kotlin/day7/Day7.kt</url>
           <line>17</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/day8/Day8.kt</url>
+          <line>52</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
