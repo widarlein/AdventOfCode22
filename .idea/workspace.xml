@@ -78,37 +78,24 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/widar/Code/hax/AdventOfCode/AoC22/src/main/resources",
+    "last_opened_file_path": "/home/widar/Code/hax/AdventOfCode/AoC22/src/main/resources/day9",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/day9" />
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/resources/day2" />
       <recent name="$PROJECT_DIR$/src/main/kotlin/day2" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Day8Kt">
+  <component name="RunManager" selected="Kotlin.Day9Kt">
     <configuration name="Day1Kt" type="JetRunConfigurationType" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day1.Day1Kt" />
       <module name="AoC22.main" />
       <shortenClasspath name="NONE" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3.Day3Kt" />
-      <module name="AoC22.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day4.Day4Kt" />
-      <module name="AoC22.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -141,21 +128,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day9Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day9.Day9Kt" />
+      <module name="AoC22.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Kotlin.Day1Kt" />
+      <item itemvalue="Kotlin.Day9Kt" />
       <item itemvalue="Kotlin.Day7Kt" />
       <item itemvalue="Kotlin.Day8Kt" />
-      <item itemvalue="Kotlin.Day4Kt" />
       <item itemvalue="Kotlin.Day5Kt" />
       <item itemvalue="Kotlin.Day6Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Day9Kt" />
         <item itemvalue="Kotlin.Day8Kt" />
         <item itemvalue="Kotlin.Day7Kt" />
         <item itemvalue="Kotlin.Day6Kt" />
         <item itemvalue="Kotlin.Day5Kt" />
-        <item itemvalue="Kotlin.Day4Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -197,6 +191,21 @@
           <url>file://$PROJECT_DIR$/src/main/kotlin/day8/Day8.kt</url>
           <line>52</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/day9/Day9.kt</url>
+          <line>82</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/day9/Day9.kt</url>
+          <line>73</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/day9/Day9.kt</url>
+          <line>100</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
